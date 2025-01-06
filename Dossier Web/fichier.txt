@@ -1,0 +1,5 @@
+import random
+
+# Générer un chiffre aléatoire entre 0 et 9
+chiffre_aleatoire = random.randint(0, 9)
+print(chiffre_aleatoire)
